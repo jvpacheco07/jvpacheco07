@@ -10,5 +10,4 @@ Olá, seja bem vindo no meu perfil!
 
 <p align="left">
  <a href="https://www.instagram.com/jv_pacheco05/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://x.com/jv_pacheco05" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 </p>
