@@ -1,10 +1,13 @@
 Olá, seja bem vindo no meu perfil!
+Sou um programador Júnior buscando melhorar e aprender. 
 
 🖥️ - Desenvolvedor de Software <br>
 🎮 - Desenvolvedor de Jogos  <br>
 🎨 - Pixel Artist Iniciante  <br>
 📓 - Estudando GML  <br>
 
+Linguagens
+- GML, PYTHON, PHP, C#
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=ng647gg2ll8y5d1ylqr81xahf&count=1) 
 
