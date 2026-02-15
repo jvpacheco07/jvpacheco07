@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Victor Ramos Pacheco, tenho 20 anos e sou natural do Espirito Santo. Concluí o ensino secundário na Escola Profissional de Almada no curso Técnico de Informática e Sistemas onde pude aprender a teoria por de trás do mundo técnológico. Abaixo está alguma dos programas/tecnologias que utilizo junto com a forma de contato
+Me chamo João Victor Ramos Pacheco, tenho 20 anos e sou natural do Espirito Santo. Concluí o ensino secundário na Escola Profissional de Almada no curso Técnico de Informática e Sistemas onde pude aprender a teoria por de trás do mundo técnológico. Abaixo estão algumas das tecnologias/linguagens que utilizo junto com a forma de contato
 <p align="left">
    <a href="https://www.instagram.com/jv_pacheco05/" target="_blank">
      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
