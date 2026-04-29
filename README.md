@@ -7,14 +7,14 @@ Me chamo João Victor Ramos Pacheco, tenho 20 anos e sou natural do Espirito San
    <a href="https://www.instagram.com/jv_pacheco05/" target="_blank">
      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
     </a>
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/jvpacheco07?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/jvpacheco07?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/jvpacheco07?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
