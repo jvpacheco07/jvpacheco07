@@ -15,6 +15,9 @@
   <a href="https://github.com/jvpacheco07?tab=repositories&sort=stargazers">
     <img alt="Total de estrelas" title="Total de estrelas GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jvpacheco07?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas" />
   </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-pacheco-87364625b/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
