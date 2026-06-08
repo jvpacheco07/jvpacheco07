@@ -65,14 +65,7 @@ joao_pacheco = {
 ### Estatisticas
 
 <p align="center">
-  <img 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api?username=jvpacheco07&show_icons=true&theme=radical&bg_color=000000&border_color=02f590&icon_color=02f590&title_color=02f590&text_color=ffffff&hide_border=false" 
-  />
-  <img 
-    height="160" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvpacheco07&layout=compact&theme=radical&bg_color=000000&border_color=02f590&title_color=02f590&text_color=ffffff" 
-  />
+  <img src="https://streak-stats.demolab.com?user=jvpacheco07&theme=dark&background=000000&ring=02f590&fire=02f590&currStreakLabel=02f590&border=02f590&stroke=02f590&dates=ffffff" />
 </p>
 
 ---
