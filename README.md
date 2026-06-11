@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://jvpacheco07.github.io" target="_blank">
+  <a href="https://jvpacheco07.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=02f590" />
   </a>
   <a href="https://www.instagram.com/jv_pacheco05/" target="_blank">
